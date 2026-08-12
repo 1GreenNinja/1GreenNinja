@@ -1,0 +1,9 @@
+# Typing Speed Test Application Dependencies
+# Note: tkinter comes built-in with Python installations
+
+# For creating Windows executable (optional)
+pyinstaller>=5.0
+auto-py-to-exe>=2.0
+
+# For enhanced UI (optional upgrades)
+pillow>=9.0
